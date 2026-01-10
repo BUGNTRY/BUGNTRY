@@ -12,8 +12,7 @@ We connect companies with security researchers to fix real-world security risks.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-BUGNTRY-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/BUGNTRY)
 [![Telegram](https://img.shields.io/badge/Telegram-BUGNTRY-26A5E4?style=flat&logo=telegram)](https://t.me/BUGNTRY)
 [![Instagram](https://img.shields.io/badge/Instagram-@bugntry-E4405F?style=flat&logo=instagram)](https://www.instagram.com/bugntry)
-![Status](https://img.shields.io/badge/status-in%20development-blue)
-![GitHub Org](https://img.shields.io/badge/github-BUGNTRY-181717)
+
 ---
 
 </div>
