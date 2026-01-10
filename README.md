@@ -1,9 +1,21 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/254039256?s=200&v=4" alt="BUGNTRY Logo" width="120" height="120">
+
 # BUGNTRY
 
 **Vulnerability research & coordinated disclosure platform.**  
 We connect companies with security researchers to fix real-world security risks.
 
+[![GitHub](https://img.shields.io/badge/GitHub-BUGNTRY-181717?style=flat&logo=github)](https://github.com/BUGNTRY)
+[![Twitter](https://img.shields.io/badge/Twitter-@bugntry-1DA1F2?style=flat&logo=x)](https://x.com/bugntry)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BUGNTRY-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/company/BUGNTRY)
+[![Telegram](https://img.shields.io/badge/Telegram-BUGNTRY-26A5E4?style=flat&logo=telegram)](https://t.me/BUGNTRY)
+[![Instagram](https://img.shields.io/badge/Instagram-@bugntry-E4405F?style=flat&logo=instagram)](https://www.instagram.com/bugntry)
+
 ---
+
+</div>
 
 ## What is BUGNTRY?
 
@@ -61,6 +73,7 @@ We help companies move from reactive security to proactive vulnerability managem
 All vulnerability reports on BUGNTRY follow responsible and coordinated disclosure principles.
 
 We ensure:
+
 - Researcher protection  
 - Company confidentiality  
 - Verified impact assessment  
