@@ -16,6 +16,8 @@ We connect companies with security researchers to fix real-world security risks.
 ---
 
 </div>
+![Status](https://img.shields.io/badge/status-in%20development-blue)
+![GitHub Org](https://img.shields.io/badge/github-BUGNTRY-181717)
 
 ## What is BUGNTRY?
 
