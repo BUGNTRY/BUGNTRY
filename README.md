@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/254039256?s=200&v=4" alt="BUGNTRY Logo" width="120" height="120">
+<img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/75dd1bc9-95eb-45e5-ac75-d05bcbc76936" />
+" alt="BUGNTRY Logo" width="120" height="120">
 
 # BUGNTRY
 
