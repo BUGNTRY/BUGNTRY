@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/75dd1bc9-95eb-45e5-ac75-d05bcbc76936" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/d4bae52f-2268-40e0-a5f6-218adb5b3afc" />
 " alt="BUGNTRY Logo" width="120" height="120">
 
 # BUGNTRY
